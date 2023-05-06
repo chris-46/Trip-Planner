@@ -1,5 +1,5 @@
 # Trip-Planner
-Create a trip planner that allows you to plan a trip: whether to the grocery store or to Japan for a week.
+This is trip planner that allows you to conveniently plan a trip: whether to the grocery store or to Japan for a month.
 Create a shareable itinerary that is (optionally) sent to your google calendar to remind you when to leave/ what’s next
 Can check the location for weather ahead of time
 Keep track of accomodation/travel arrangements.
